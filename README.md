@@ -1,4 +1,4 @@
-# Open Building Skills
+# OpenBuildingSkills
 
 A growing collection of open-source LLM agent skills that encode domain knowledge of smart building standards — ontologies, automation protocols, and control languages.
 
