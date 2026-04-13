@@ -19,6 +19,22 @@ Learn more:
 - [The Complete Guide to Building Skills for Claude (PDF)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 - [Agent Skills Overview — Claude Platform Docs](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 
+## Skills
+
+### know-brick
+
+Brick Schema modeling, querying, validation, and workflow support for semantic building metadata. Covers equipment and point classification, spatial hierarchies, SPARQL patterns, and BuildingMOTIF workflows.
+
+- [Brick Schema](https://brickschema.org/)
+- [BrickSchema on GitHub](https://github.com/BrickSchema)
+
+### know-223p
+
+ASHRAE Standard 223P and the Open223 ecosystem. Covers ontology concepts, topology modeling, connection points, properties, media, inference, validation, QUDT units, and Brick/RealEstateCore interop.
+
+- [Open223](https://open223.info/)
+- [Open223 on GitHub](https://github.com/open223)
+
 ## License
 
 [MIT](LICENSE)
